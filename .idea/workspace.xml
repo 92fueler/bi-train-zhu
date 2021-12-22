@@ -76,9 +76,13 @@
       <workItem from="1640046326029" duration="355000" />
       <workItem from="1640046700023" duration="1788000" />
       <workItem from="1640048529003" duration="2974000" />
+<<<<<<< HEAD
       <workItem from="1640051631423" duration="9464000" />
       <workItem from="1640067636608" duration="4590000" />
       <workItem from="1640072643040" duration="2462000" />
+=======
+      <workItem from="1640051631423" duration="16823000" />
+>>>>>>> 2-chou-initial-django
     </task>
     <servers />
   </component>
